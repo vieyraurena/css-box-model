@@ -23,3 +23,19 @@
   color: black;
   border: 1px solid black;
 }
+
+.wh {
+  background-color: #ffffff;
+  border: 1px solid black;
+  color: black;
+  font-family: roboto, Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  padding: 12px 80px;
+  margin: 0 25px;
+  text-align: center;
+}
+
+.wh:hover {
+  background-color: black;
+  color: #ffffff;
+}
