@@ -54,3 +54,17 @@
   background-color: #2c2c2c;
   color: #ffffff;
 }
+
+.blue {
+  background-color: #0074da;
+  color: #f1ffff;
+  border: none;
+  font-family: roboto, Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  padding: 17px 100px; 
+}
+
+.blue:hover{
+  background-color: #024a88;
+  color: #ffffff;
+}
