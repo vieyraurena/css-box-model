@@ -1,0 +1,25 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.container{
+  margin: 10px 50px;
+  padding: 0; 
+}
+
+.btn {
+  background-color: black;
+  color: white;
+  padding: 12px 70px;
+  margin: 0 43px;
+  border: none;
+  font-family: roboto, sans-serif;
+  font-size: 15px;
+}
+
+.btn:hover{
+  background-color:#ffffff;
+  color: black;
+  border: 1px solid black;
+}
